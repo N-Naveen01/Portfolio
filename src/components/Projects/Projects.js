@@ -39,7 +39,7 @@ function Projects() {
               isBlog={false}
               title="Image Generator"
               description="Developed an AI-powered image generation platform using the Clipdrop API for high-quality AI image creation. Integrated Razorpay payment gateway to enable secure and seamless payments before generating premium images. Users can input prompts, complete the payment via Razorpay, and receive generated images instantly. Ensured smooth backend integration and asynchronous processing for real-time response. The system supports multiple image styles and formats with a user-friendly interface."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              ghLink="https://github.com/N-Naveen01/Image-Generator"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
           </Col>
